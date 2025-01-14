@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "42134704778",
+    "project_id": "elearning-5f0a1",
+    "storage_bucket": "elearning-5f0a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42134704778:android:461fee88a86bead046d373",
+        "android_client_info": {
+          "package_name": "com.example.elearning"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYoCbwfulDqyn1xxsT70pctqP_oa4HRQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42134704778:android:89dd91722a9cbfa646d373",
+        "android_client_info": {
+          "package_name": "com.helascript.iskole"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYoCbwfulDqyn1xxsT70pctqP_oa4HRQ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
